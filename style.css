@@ -1,0 +1,43 @@
+body{
+    background-color: floralwhite;
+}
+
+.rodape{
+    color: rgb(196, 171, 171);
+position: fixed;
+bottom: 0;
+width:100%;
+
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    font-weight: lighter;
+}
+
+
+h4{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+h3{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#camera{
+    height: 400px;
+    width: 500px;
+    border-color: azure;
+}
+
+
+img{
+    box-shadow: 0 6px 8px 0 black;
+}
+
+img:hover{
+border-radius: 140px;
+}
